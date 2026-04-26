@@ -4,8 +4,9 @@ An AI-powered agriculture robot designed to detect plant diseases in real time u
 The system combines **YOLOv8**, **Flask Web Dashboard**, **Arduino Robot Control**, and **Raspberry Pi Deployment** to create a complete smart farming solution.
 
 ---
-Portfolio Page : 
-team-infinity.netlify.app
+## 🌐 Portfolio Page
+
+[🚀 Open Team Infinity Portfolio](https://team-infinity-10.netlify.app)
 ---
 
 ## 📌 Project Overview
