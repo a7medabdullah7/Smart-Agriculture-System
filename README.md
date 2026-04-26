@@ -131,6 +131,10 @@ Solar powered robot
 👨‍💻 Team
 
 Infinity Team 🚀
+Ahmed Abdullah Ibrahim
+Mohamed Hatem Elshahat
+Mohamed Reda Abo Ghanam
+ElSayed AbdelSattar ElSayed
 
 📌 Final Summary
 
